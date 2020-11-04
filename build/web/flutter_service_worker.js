@@ -21,11 +21,11 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "9a62a954b81a1ad45a58b9bcea89b50b",
 "CNAME": "db3518822720b27d76b0850df89c5f4b",
 "favicon.png": "a43cfeee31a07a5c2ac1ecd81285484e",
-"index.html": "1ea74c66415c227bcff2eb977592a462",
-"/": "1ea74c66415c227bcff2eb977592a462",
+"index.html": "5fe8ec5738e7f1505e9de37a0f3daedf",
+"/": "5fe8ec5738e7f1505e9de37a0f3daedf",
 "main.dart.js": "51baf5eb63f9c85a0e52e7025922a79b",
 "manifest.json": "fe7a17e114e93496a511838c8076a744",
-"social-cover.png": "f01bae2a6fdf21be2e33db42e04357c3",
+"social-cover.png": "1f2108e4cca062b7bea12bd79df88458",
 "version.json": "3bb6c18a962c0ceaf2e2d48929cf0913"
 };
 
